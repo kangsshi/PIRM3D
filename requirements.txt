@@ -1,7 +1,0 @@
-# Use the existing AutoDL CUDA PyTorch installation when it satisfies this version.
-torch>=1.11
-numpy>=1.22
-scipy>=1.9
-Pillow>=9
-numba>=0.57
-tqdm>=4.64
