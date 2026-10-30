@@ -1,0 +1,45 @@
+{
+  "package": "PIRM3D main experiment source release",
+  "source_selection": "Current workspace root main-experiment modules only",
+  "split": {
+    "train_maps": 500,
+    "val_maps": 50,
+    "test_maps": 100,
+    "tx_per_map": 200
+  },
+  "changes": "Main-experiment source unchanged; release paths and requested split counts configured for 500/50/100 maps and 200 TX samples per map.",
+  "original_source_sha256": {
+    "model_3d.py": "84f08cb5b469a76d41259405a34ec3d867c72a4b6c8f0707a8e597fddb302a20",
+    "dataset_main.py": "f5421ca232b35b8b97e12f9ab35380bf9b27fa91b52bec3982e9115eb4cf77fb",
+    "main_protocol.py": "e15f5c0a2520f74658dabb0ae4b4fb89c31e566ccd9b7e437531d3dd6810f04a",
+    "main_trajectories.py": "259366a403e9a7f588c4bf2604ffc0b9674025f258a7083342483f1df2ff7bd1",
+    "main_pseudo.py": "1086cb9a76641a03618b2ef7d784cbf986c8f47dcf9d3f7ca0927c45c7834acc",
+    "main_loss.py": "85d67935cbc92c1b8e51c1202b326aa1b2c7ac376f36025094bcb958c42b1df4",
+    "main_metrics.py": "3331121a84d4d461d22a8806608f1f8aeb4dff80508e6c66f1f5b5091e1848d5",
+    "main_runtime.py": "f0810559b515623ea790304f6c89a9be7a1aa8a7a6c131d4696f5c14e05de2c1",
+    "preprocess_depth.py": "105ed22e5d8fbcbe0d89978b264635ee19047bb99768b221e003af2b34771fb6",
+    "prepare_main.py": "0cb9cf5af0e9ae5fbc8352a7f93d86d8c62715ee4c5bcc544eb29c6cc0bf6d1f",
+    "prepare_valid_data.py": "4b819953be744c65a1c0687fabcb9b134a6030a5113c87ddceaa38c322442039",
+    "train_main.py": "701b64e905331c7c7afcb2a842df83866c1c264d7270d82cfaa0fc9c4dbfa48e",
+    "test_main.py": "3216947f0ee66897a52024ef5a581d5004dd2462847a047e8950d992a3caba8e",
+    "requirements-main.txt": "4a78d46d76993777a2ff9dbeee036f26fc74e337121b3ee90ac3c632ac991989"
+  },
+  "note": "New requested data counts, not the configuration for previously reported paper metrics. No data, checkpoints or prior manifests included.",
+  "release_source_sha256": {
+    "model_3d.py": "cf16cd12144779799883fe391a2d67abd02e5b2579df9afda04588f3ff7447d4",
+    "dataset_main.py": "f5421ca232b35b8b97e12f9ab35380bf9b27fa91b52bec3982e9115eb4cf77fb",
+    "main_protocol.py": "7ffc260b75a87b3c3157a1ddf335a8a807c0f674573c3a43faf56b36fef6d2b3",
+    "main_trajectories.py": "259366a403e9a7f588c4bf2604ffc0b9674025f258a7083342483f1df2ff7bd1",
+    "main_pseudo.py": "1086cb9a76641a03618b2ef7d784cbf986c8f47dcf9d3f7ca0927c45c7834acc",
+    "main_loss.py": "85d67935cbc92c1b8e51c1202b326aa1b2c7ac376f36025094bcb958c42b1df4",
+    "main_metrics.py": "3331121a84d4d461d22a8806608f1f8aeb4dff80508e6c66f1f5b5091e1848d5",
+    "main_runtime.py": "f0810559b515623ea790304f6c89a9be7a1aa8a7a6c131d4696f5c14e05de2c1",
+    "preprocess_depth.py": "105ed22e5d8fbcbe0d89978b264635ee19047bb99768b221e003af2b34771fb6",
+    "prepare_main.py": "0cb9cf5af0e9ae5fbc8352a7f93d86d8c62715ee4c5bcc544eb29c6cc0bf6d1f",
+    "prepare_valid_data.py": "4b819953be744c65a1c0687fabcb9b134a6030a5113c87ddceaa38c322442039",
+    "train_main.py": "701b64e905331c7c7afcb2a842df83866c1c264d7270d82cfaa0fc9c4dbfa48e",
+    "test_main.py": "3216947f0ee66897a52024ef5a581d5004dd2462847a047e8950d992a3caba8e",
+    "requirements-main.txt": "4a78d46d76993777a2ff9dbeee036f26fc74e337121b3ee90ac3c632ac991989"
+  },
+  "line_endings": "Published text uses LF with one final newline; source logic is unchanged."
+}

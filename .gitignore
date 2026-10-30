@@ -1,0 +1,27 @@
+# Private/local data and generated experiment files
+/data/
+/artifacts/
+/outputs/
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.zip
+*.tar
+*.gz
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+.vscode/
+.DS_Store
