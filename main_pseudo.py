@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """On-demand physics residual labels, optionally cached within a disk budget."""
 import os
 import tempfile

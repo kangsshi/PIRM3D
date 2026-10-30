@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """Shared loaders, checkpoint IO and evaluation; no experiment side effects on import."""
 import os
 import hashlib

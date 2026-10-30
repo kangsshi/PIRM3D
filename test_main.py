@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """Final held-out evaluation using a checkpoint selected only on validation."""
 import argparse
 import csv

@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """Anisotropic 3D Res-UNet backbone; outputs logits. Architecture unchanged."""
 import torch
 import torch.nn as nn

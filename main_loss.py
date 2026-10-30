@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """Measured MSE + slice SI-MSE + signed finite differences in physical units."""
 import torch
 import torch.nn as nn

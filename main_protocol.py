@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """Shared, explicit experiment configuration and immutable scene-level splits."""
 import hashlib
 import csv

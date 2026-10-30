@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """One complete route as input; union of 20 routes as supervision."""
 from collections import OrderedDict
 

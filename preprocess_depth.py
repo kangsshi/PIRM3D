@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """Generate/reuse raw physical depth for selected samples only, without OpenCV."""
 import os
 import tempfile

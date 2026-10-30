@@ -13,7 +13,7 @@ In this project, we propose PIRM3D, a physics-inspired 3D framework designed for
 - PyTorch >= 1.11 (CUDA-enabled for GPU training)
 
 ```bash
-pip install -r requirements.txt
+pip install torch numpy scipy Pillow numba tqdm
 ```
 
 ## Data

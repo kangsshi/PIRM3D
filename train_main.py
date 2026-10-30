@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """The sole active main-experiment training entry point."""
 import argparse
 import json

@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """Obstacle-aware, ordered 6-connected flight paths; no mask dilation or point dropping.
 
 Each route is a segment of a seeded depth-first coverage walk. New voxel budgets

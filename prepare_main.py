@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """Prepare an exact scene split and selected depth/trajectories. Never delete raw data."""
 import argparse
 import shutil

@@ -1,3 +1,4 @@
+# PIRM3D: physics-inspired 3D radio map construction.
 """Consistent per-sample macro metrics for validation and testing."""
 import math
 import numpy as np
